@@ -5,8 +5,8 @@
 
 replicaCount: 1
 image:
-  repository: draft
-  tag: dev
+  repository: 54.218.7.117:5000/upendrasahu/pythonapp-9442
+  tag: 0.0.4
   pullPolicy: IfNotPresent
 service:
   name: pythonapp-9442
