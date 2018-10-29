@@ -1,6 +1,7 @@
 # Default values for python.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
+# save template test PR-2
 replicaCount: 1
 image:
   repository: draft
