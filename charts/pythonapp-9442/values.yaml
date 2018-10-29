@@ -1,7 +1,8 @@
 # Default values for python.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
-# Save template
+# Save component values yaml
+
 replicaCount: 1
 image:
   repository: draft
